@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**yxsj245/yxsj245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi 我叫又菜又爱玩的小猪 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yxsj245) \
+一个初中辍学生目前擅长折腾各种软件及系统，曾学过python语言，目前擅于采用主流AI模型进行代码编写和项目开发，本人主打开发各种实用小工具项目，并且均开源，不开源我就浑身难受。😖
+# 代表作项目
+[一键开服容器](https://github.com/yxsj245/gameserver_container) [飞牛脚本](https://github.com/yxsj245/fnscript)
+# 近期通知
+1. 【2025.5.9】 飞牛脚本项目2.0进入开发阶段
+2. 【2025.5.1】 飞牛脚本项目宣布开启2.0重大版本阶段
+3. 【2025.5.3】一键开服容器 发布首个正式版本，目前已成为本人仓库中星级最多，使用人数最多，投入精力最大的项目
+4. 【2025.4.28】 一键开服容器项目发布，进入内测阶段
+5. 【2025.4.25】 一键开服容器项目立项，准备打造业内唯一一个在Linux上用一个容器一键开几乎所有steam的游戏
+6. 【2025.4.25】将维护困难以及使用人数少等项目进行归档处理，将维护重心调整到开发和维护现有热度比较高的项目
